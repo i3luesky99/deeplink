@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5GV4MAA4MG.org.reactjs.native.example.Mocc",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
